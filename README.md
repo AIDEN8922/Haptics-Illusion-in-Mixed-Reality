@@ -19,6 +19,7 @@ including but not limited to get sensing and location info form the headset,  ac
 the other one is model calculation block, which keeps calculaing and maintaining the platfrom and keybroad 3D model within the space, also implement the logic 
 of deciding whether the user's finger made a touch with some keybroad in the platform and determine which exactly key it is. it also make use of the functions 
 provided by the hardware access block to interact with the headset.
+![image](https://user-images.githubusercontent.com/32824406/194563808-d5602f25-cc65-4123-b778-055dd42049c8.png)
 ## hardware and software requirement ##
 a microsoft hololen MR headset, and PCs(the project may require developing under Windows, currently the only two PCs with Windows OS are in model group, but the hardware group may use computers in the school)
 ## team member and responsibilities ##
